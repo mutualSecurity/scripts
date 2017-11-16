@@ -1,0 +1,1 @@
+cmd /k "cd D:\mutual Bank\odoo-8.0 && D: && python odoo.py -w odoo -r odoo --addons-path=addons,mutual-erp-bank"
